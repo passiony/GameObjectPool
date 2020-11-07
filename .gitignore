@@ -9,7 +9,10 @@
 sysinfo.txt
 *.stackdump
 StreamingAssets/
- 
+ .idea/
+Logs/
+Packages/
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
