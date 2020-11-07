@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\UnityProjects\GameObjectPool" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Example" t="Include">
+            <e p="Example01.cs" t="Include" />
+            <e p="Example02.cs" t="Include" />
+          </e>
+          <e p="ObjectPool" t="Include">
+            <e p="GameObjectPool.cs" t="Include" />
+            <e p="PrefabPool.cs" t="Include" />
+          </e>
+          <e p="Singleton" t="Include">
+            <e p="MonoSingleton.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+          </e>
+          <e p="UnityAsync" t="Include">
+            <e p="Awaiters.cs" t="Include" />
+            <e p="AwaitExtensions.cs" t="Include" />
+            <e p="Example" t="Include">
+              <e p="AsyncUtilTests.cs" t="Include" />
+            </e>
+            <e p="IEnumeratorAwaitExtensions.cs" t="Include" />
+            <e p="Internal" t="Include">
+              <e p="AsyncCoroutineRunner.cs" t="Include" />
+              <e p="SyncContextUtil.cs" t="Include" />
+            </e>
+            <e p="TaskExtensions.cs" t="Include" />
+            <e p="WaitForBackgroundThread.cs" t="Include" />
+            <e p="WaitForUpdate.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GameObjectPool.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\dell\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dell\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_GameObjectPool.-1740709372.00" t="ExcludeRecursive" />
+  </component>
+</project>
